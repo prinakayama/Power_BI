@@ -13,13 +13,20 @@
    * PowerBI Service
      
 2. Visualizando dados (Dashboard com PowerBI)
-   *
+   
    
 3. Tratamento de dados no Power Query
-   *
+   * Conexão Excel, CSV, MySQL e JSON
+   * Extraindo dados, mesclando consultas e transformações
+   * Transposição de tabelas e gerenciamento de parâmetros
+   * Editor avançado e refatorando as etapas
    
 4. DAX contextos e iteração
-   *
+   * Propósito do DAX, colunas calculadas e primeiras medidas
+   * Taxa de margem bruta
+   * Iteradores
+   * Contextos no DAX (Erros)
+   * Categorização dos dados
    
 5. Aprofundamento na linguagem DAX
    *
