@@ -29,10 +29,11 @@
    * Categorização dos dados
    
 5. Aprofundamento na linguagem DAX
-   *
+   * Funções CALCULATE, RELATED, SUMX, ALL, DAX, ISBLANK, KeepFilter
  
 6. Explorando Recursos Visuais
-   *
+   * StoryTelling, KPI's, P&R, Tooltip, Interatividade
+     
 7. Report Builder
    *
    
